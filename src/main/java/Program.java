@@ -5,7 +5,6 @@
 public class Program {
 
     public static void main(String[] args) {
-        System.out.println(sdfwefwef);
         int num1 = Check.getInt();
         int num2 = Check.getInt();
         char operation = Check.getOperation();
