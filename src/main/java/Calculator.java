@@ -8,7 +8,7 @@ public class Calculator {
 
         switch (operation){
             case '+':
-                result = num1+num2;
+                result = 2+num1+num2;
                 break;
             case '-':
                 result = num1-num2;
